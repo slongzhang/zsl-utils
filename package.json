@@ -1,5 +1,5 @@
 {
-  "name": "zsl-utils.js",
+  "name": "zsl-utils",
   "version": "1.0.0",
   "description": "日常开发常用脚本函数封装",
   "main": "index.js",
