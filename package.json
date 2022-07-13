@@ -1,0 +1,27 @@
+{
+  "name": "zsl-utils.js",
+  "version": "1.0.0",
+  "description": "日常开发常用脚本函数封装",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "zsl",
+    "utils",
+    "slongzhang"
+  ],
+  "author": "slongzhang",
+  "license": "ISC",
+  "dependencies": {
+    "pako": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "dayjs": "^1.11.3",
+    "uglifyjs-webpack-plugin": "^1.3.0",
+    "webpack": "^3.6.0"
+  }
+}
